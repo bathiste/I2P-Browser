@@ -23,6 +23,14 @@ A simple desktop web browser for browsing websites on the I2P network.
 ## Installation
 
 ```bash
+git clone https://github.com/bathiste/I2P-Browser.git
+```
+
+```bash
+cd I2P-Browser
+```
+
+```bash
 pip install PyQt5 PyQtWebEngine
 ```
 
@@ -31,7 +39,7 @@ pip install PyQt5 PyQtWebEngine
 Start your I2P router, then launch the browser:
 
 ```bash
-python main.py
+python I2P-browser.py
 ```
 
 Default I2P settings:
